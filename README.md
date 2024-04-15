@@ -11,7 +11,7 @@ https://aka.ms/ai900-text-analysis
 
 --------------
 
-Acredito que o serviço esteja com algum problema. Mesmos eguinte as orientações do lab e criando os recursos o mesmo não é localizado no https://language.cognitive.azure.com;
+Acredito que o serviço esteja com algum problema. Mesmo seguindo as orientações do lab e criando os recursos o mesmo não é localizado no https://language.cognitive.azure.com;
 
 ![image](https://github.com/MichelTsukiyama/DIO-lab-AzureAI/assets/83741590/cd7577b8-2a7d-4488-8367-fef711c9dfdd)
 
