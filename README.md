@@ -10,14 +10,11 @@ https://aka.ms/ai900-speech
 https://aka.ms/ai900-text-analysis
 
 --------------
+Input
 
-Acredito que o serviço esteja com algum problema. Mesmo seguindo as orientações do lab e criando os recursos o mesmo não é localizado no https://language.cognitive.azure.com;
+![image](https://github.com/MichelTsukiyama/DIO-lab-AzureAI/assets/83741590/65f61cc0-5bee-47dd-a700-5395befa3eec)
 
-![image](https://github.com/MichelTsukiyama/DIO-lab-AzureAI/assets/83741590/cd7577b8-2a7d-4488-8367-fef711c9dfdd)
+Output
 
+![image](https://github.com/MichelTsukiyama/DIO-lab-AzureAI/assets/83741590/72dd7ed0-7000-44d2-9ac5-78d54368a0e1)
 
-Recurso criado no azure:
-
-![image](https://github.com/MichelTsukiyama/DIO-lab-AzureAI/assets/83741590/5650e5b8-10f2-4b9e-9452-9344a16c9f64)
-
-Recurso será removido e o lab feito em outra data.
